@@ -287,10 +287,22 @@
     "@ethersproject/properties" "^5.5.0"
     "@ethersproject/strings" "^5.5.0"
 
+"@openzeppelin/contracts@^2.5.0":
+  "integrity" "sha512-t3jm8FrhL9tkkJTofkznTqo/XXdHi21w5yXwalEnaMOp22ZwZ0f/mmKdlgMMLPFa6bSVHbY88mKESwJT/7m5Lg=="
+  "resolved" "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-2.5.0.tgz"
+  "version" "2.5.0"
+
 "@sindresorhus/is@^0.14.0":
   "integrity" "sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ=="
   "resolved" "https://registry.npmjs.org/@sindresorhus/is/-/is-0.14.0.tgz"
   "version" "0.14.0"
+
+"@studydefi/money-legos@^2.3.3":
+  "integrity" "sha512-5Vy5TGIBpsKsaYwCWPOnFYdNxefWd3b8pT5IRo1F58q8YYmsKZpv/o/BzXo3R/Qg/6EWk2rx6A68GUH2ZTeF9A=="
+  "resolved" "https://registry.npmjs.org/@studydefi/money-legos/-/money-legos-2.3.3.tgz"
+  "version" "2.3.3"
+  dependencies:
+    "@openzeppelin/contracts" "^2.5.0"
 
 "@szmarczak/http-timer@^1.1.2":
   "integrity" "sha512-XIB2XbzHTN6ieIjfIMV9hlVcfPU26s2vafYWQcZHWXHOxiaRZYEDKEwdl129Zyg50+foYV2jCgtrqSA6qNuNSA=="
